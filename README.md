@@ -1,7 +1,7 @@
 ## Hi there, I'm Trung! 👋
 > 💻 Cyber Security Engineer | 🚩 Redteamer
+
 *Cyber Security Sophomore at [SoICT - Hanoi University of Science and Technology](https://soict.hust.edu.vn/en/)*
-<br>
 *Incident Response Intern at [VNCERT/CC](https://github.com/VNCERT-CC/)*
 
 [![Twitter: teebow1e](https://img.shields.io/static/v1?style=for-the-badge&message=X&color=000000&logo=X&logoColor=FFFFFF&label=&link=https://twitter.com/teebow1e)](https://twitter.com/teebow1e)
