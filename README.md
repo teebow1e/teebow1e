@@ -21,4 +21,4 @@ My primary focus is to develop an effective red teaming strategy and devise robu
 
 I enjoy connecting with different people in this field, so feel free to say hi — I'm always delighted to make new acquaintances! :)
 
-[![Hits](https://hits.sh/github.com/teebow1e.svg?style=for-the-badge&label=Total%20View&color=2e91ba)](https://hits.sh/github.com/teebow1e/)
+[![Hits](https://hits.sh/github.com/teebow1e.svg?style=for-the-badge&label=Total%20View&color=2e91ba)]()
