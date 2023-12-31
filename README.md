@@ -1,4 +1,4 @@
-# Hi there, I'm Trung! 👋
+## Hi there, I'm Trung! 👋
 > 💻 Cyber Security Engineer | 🚩 Redteamer
 
 *Cyber Security Sophomore at [SoICT - Hanoi University of Science and Technology](https://soict.hust.edu.vn/en/)*
