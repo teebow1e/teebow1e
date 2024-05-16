@@ -6,7 +6,7 @@
 
 *Incident Response Intern at [VNCERT/CC](https://github.com/VNCERT-CC/)*
 
-*Playing CTFs w/ [BKSec](https://bksec.vn/) and [Social Engineering Experts](https://seetf.sg/).*
+*Playing CTFs w/ [BKSec](https://bksec.vn/) and [Social Engineering Experts](https://seetf.sg/)*
 
 [![Twitter: teebow1e](https://img.shields.io/static/v1?style=for-the-badge&message=X&color=000000&logo=X&logoColor=FFFFFF&label=&link=https://twitter.com/teebow1e)](https://twitter.com/teebow1e)
 [![GitHub: teebow1e](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=&link=https://github.com/teebow1e/)](https://github.com/teebow1e/)
