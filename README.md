@@ -3,7 +3,7 @@
 
 *Cyber Security Junior at [SoICT - Hanoi University of Science and Technology](https://soict.hust.edu.vn/en/)*
 
-*Incident Response Intern at [VNCERT/CC](https://github.com/VNCERT-CC/)*
+*Pentester & Incident Responder at [VNCERT/CC](https://github.com/VNCERT-CC/)*
 
 *A proud member of [BKSec](https://bksec.vn/)*
 
