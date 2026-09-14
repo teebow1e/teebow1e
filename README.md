@@ -3,8 +3,6 @@
 
 *Cyber Security Senior at [SoICT - Hanoi University of Science and Technology](https://soict.hust.edu.vn/en/)*
 
-*Pentester & Incident Responder at [VNCERT/CC](https://github.com/VNCERT-CC/)*
-
 *Current leader of [BKSec](https://bksec.vn/)*
 
 [![Twitter: teebow1e](https://img.shields.io/static/v1?style=for-the-badge&message=X&color=000000&logo=X&logoColor=FFFFFF&label=&link=https://twitter.com/teebow1e)](https://twitter.com/teebow1e)
